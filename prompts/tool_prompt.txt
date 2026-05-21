@@ -1,0 +1,1 @@
+When executing a tool, please determine if any arguments are needed. If no arguments are needed, invoke the function with an empty arguments object.

@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+agent_session_memory.json
+venv/
+

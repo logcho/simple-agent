@@ -1,0 +1,4 @@
+# Model hyperparameters and agent settings
+model: "gpt-4o-mini"
+temperature: 0.0
+memory_file: "agent_session_memory.json"
